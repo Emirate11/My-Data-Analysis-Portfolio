@@ -109,9 +109,8 @@
 
 ![Solver](https://user-images.githubusercontent.com/106380594/196952836-74280f23-da5f-4655-a88c-53027df2a3bd.png)
 
-![Dashboard](visuals/excel/ScenarioManager.png)
 
 
 - [x] **Other Python Projects** - 
-- Webscrapping:
+- [Webscrapping](https://github.com/Emirate11/My-Data-Analysis-Portfolio/blob/main/First%20Webscrapping%20project.py)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
