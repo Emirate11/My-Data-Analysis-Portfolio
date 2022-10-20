@@ -1,7 +1,6 @@
 # Portfolio Projects
 ## Following are my projects in SQL, Python, Tableau & Excel: <br />
-#### *You can take a look at my personal website : [www.priyankajha24.wixsite.com](www.priyankajha24.wixsite.com/aboutme)* <br />
-#### *You can also take a look at my Linkedin : [PriyankaJhaTheAnalyst](https://www.linkedin.com/in/priyankajhatheanalyst/)* <br />
+#### *You can also take a look at my Linkedin : [PriyankaJhaTheAnalyst](https://www.linkedin.com/in/justin-idemudia-694897172)* <br />
 
 
 
@@ -11,14 +10,8 @@
 *Review the Data Insertion SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)**<br />
 *Review the Data Exploration SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
 
-![Instagram Clone Dashboard](visuals/InstagramCloneDashboard.png)
 
-
-
-- [x] **Hadoop (Hive)** - 
-  - NYC Yellow Taxi Records: Data Analysis <br />
-*Review the HiveQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Hadoop(Hive)%20-%20NYC%20Yellow%20Taxi%20Case%20Study.txt)**<br />
-
+![InstagramCloneDashboard](https://user-images.githubusercontent.com/106380594/196944820-1b1a86c8-f41a-4c51-9388-d46fbd14188c.png)
 
 
 - [x] **SQL** - 
