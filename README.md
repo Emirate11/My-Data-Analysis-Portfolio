@@ -25,7 +25,7 @@
 
 - [x] **Python** - 
   - Movies Industry Dataset: Exploratory Data Analysis Project <br />
-*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/Python_MoviesIndustry_EDA/blob/main/README.md)**<br />
+*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/Emirate11/My-Data-Analysis-Portfolio/blob/main/Python%20-%20Movie%20Industry%20EDA%20Project.ipynb)**<br />
 
 
 
