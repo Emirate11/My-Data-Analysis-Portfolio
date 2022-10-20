@@ -1,6 +1,6 @@
 # Portfolio Projects
 ## Following are my projects in SQL, Python, Tableau & Excel: <br />
-#### *You can also take a look at my Linkedin : [PriyankaJhaTheAnalyst](https://www.linkedin.com/in/justin-idemudia-694897172)* <br />
+#### *You can also take a look at my Linkedin : [Justin Idemudia](https://www.linkedin.com/in/justin-idemudia-694897172)* <br />
 
 
 
