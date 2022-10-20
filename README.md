@@ -15,7 +15,7 @@
 
 - [x] **SQL** - 
   - Nashville Housing Dataset: Data Cleaning <br />
-*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
+*Review the SQL Script:* **[HERE](https://github.com/Emirate11/My-Data-Analysis-Portfolio/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
 
   - COVID-19 Dataset: Data Exploration  <br />
 *Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Exploration.sql)**<br />
